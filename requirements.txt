@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+flask
+gunicorn
+altair==4.2.2
+streamlit
